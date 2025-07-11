@@ -294,11 +294,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmedatwal226@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-medatwal-36943220a)
 
-**🆘 Emergency Support**: For urgent deployment needs, contact us immediately
-
-</div>
-
----
+<div align="center">
 
 **⭐ Star this repository if it helped you!**
 
