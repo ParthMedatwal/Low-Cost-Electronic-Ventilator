@@ -300,15 +300,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📊 Project Stats
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/low-cost-ventilator?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/low-cost-ventilator?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/low-cost-ventilator)
-![GitHub license](https://img.shields.io/github/license/yourusername/low-cost-ventilator)
-
 **⭐ Star this repository if it helped you!**
 
 </div>
