@@ -153,24 +153,17 @@ graph TD
 
 ```
 low-cost-ventilator/
-├── 📂 documentation/
-│   └── project_report.pdf          # Complete project documentation
-├── 📂 diagrams/
-│   ├── block_diagram.png           # System architecture overview
-│   └── circuit_diagram.png         # Detailed wiring schematic
-├── 📂 code/
-│   └── ventilator_control.ino      # Arduino control code
-├── 📂 images/
-│   ├── prototype_photos/           # Real implementation photos
-│   │   ├── assembled_unit.jpg
-│   │   ├── internal_wiring.jpg
-│   │   ├── control_panel.jpg
-│   │   └── complete_system.jpg
-│   └── ui_display/                 # LCD interface screenshots
-└── README.md                       # This file
+├── project_report.pdf          # Complete project documentation
+├── block_diagram.png           # System architecture overview
+│── circuit_diagram.png         # Detailed wiring schematic
+├── ventilator_control.ino      # Arduino control code
+├── prototype_photos/           # Real implementation photos
+│── front.png
+│── internal_wiring.png
+│── control_panel.png
+│── side.png
+│── README.md                       # This file
 ```
-
----
 
 ## 🌍 Applications
 
@@ -269,30 +262,6 @@ void setup() {
 - [ ] Modular design for customization
 - [ ] Global certification compliance
 - [ ] Mass production partnership
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from the global community! Here's how you can help:
-
-### 🔧 Technical Contributions
-- **Hardware improvements**: Circuit optimizations, component alternatives
-- **Software enhancements**: Algorithm improvements, new features
-- **Testing**: Validation in different environments
-- **Documentation**: User guides, technical specifications
-
-### 🌍 Community Support
-- **Translation**: Localize documentation for global accessibility
-- **Training**: Develop educational materials
-- **Deployment**: Support implementation in underserved areas
-
-### 📝 How to Contribute
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
