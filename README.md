@@ -282,9 +282,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Open Source Contributors**: Developers who made this possible
 - **Healthcare Heroes**: Frontline workers who inspired this project
 
----
-
-## 📞 Contact & Support
 
 <div align="center">
 
