@@ -5,7 +5,6 @@
 ![Ventilator Banner](https://img.shields.io/badge/Medical_Device-Life_Saving-red?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Cost Reduction](https://img.shields.io/badge/Cost_Reduction-99.3%25-green?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open_Source-GPL--3.0-blue?style=for-the-badge)
 
 **An innovative, affordable electronic ventilator designed to democratize access to life-saving respiratory support**
 
