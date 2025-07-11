@@ -267,7 +267,7 @@ void setup() {
 
 ## 📄 License
 
-This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ### 🔓 Open Source Commitment
 - Free for humanitarian use
@@ -291,9 +291,8 @@ This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICEN
 
 ### 💬 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmedatwal226@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-medatwal-36943220a)
 
 **🆘 Emergency Support**: For urgent deployment needs, contact us immediately
 
