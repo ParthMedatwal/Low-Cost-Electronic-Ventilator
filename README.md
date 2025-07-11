@@ -160,8 +160,8 @@ low-cost-ventilator/
 ├── prototype_photos/           # Real implementation photos
 │── front.png
 │── internal_wiring.png
-│── control_panel.png
-│── side.png
+│── Top.png
+│── Bottom.png
 │── README.md                       # This file
 ```
 
