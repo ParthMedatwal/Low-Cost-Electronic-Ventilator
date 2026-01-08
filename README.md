@@ -1,6 +1,7 @@
+<div align="center">
+
 # 🫁 Low-Cost Electronic Ventilator
 
-<div align="center">
 
 ![Ventilator Banner](https://img.shields.io/badge/Medical_Device-Life_Saving-red?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
